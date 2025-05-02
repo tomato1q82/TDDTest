@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\tomat\\source\\repos\\Project7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\prime_factors_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|solutionrelative:Project7\\prime_factors_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}|\uC194\uB8E8\uC158 \uD56D\uBAA9{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}|C:\\Users\\tomat\\source\\repos\\Project7\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}|\uC194\uB8E8\uC158 \uD56D\uBAA9{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}|\uC194\uB8E8\uC158 \uD56D\uBAA9{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}|C:\\Users\\tomat\\source\\repos\\Project7\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}|\uC194\uB8E8\uC158 \uD56D\uBAA9{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|solutionrelative:Project7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|solutionrelative:Project7\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\prime_factors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|solutionrelative:Project7\\prime_factors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|solutionrelative:Project7\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\prime_factors_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A47FD407-4ACB-4C97-9A40-4DFF69E3DA59}|Project7\\Project7.vcxproj|solutionrelative:Project7\\prime_factors_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\tomat\\source\\repos\\Project7\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\tomat\\source\\repos\\Project7\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAGIBAAAAAAAAAADwv5ABAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-02T04:14:14.647Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -38,38 +59,23 @@
               "RelativeToolTip": "Project7\\.gitignore",
               "ViewState": "AgIAAGIBAAAAAAAAAADwv5ABAAAJAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-05-02T03:45:13.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T03:45:13.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\main.cpp",
-              "RelativeDocumentMoniker": "Project7\\main.cpp",
-              "ToolTip": "C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\main.cpp",
-              "RelativeToolTip": "Project7\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T03:44:21.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "prime_factors_test.cpp",
               "DocumentMoniker": "C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\prime_factors_test.cpp",
               "RelativeDocumentMoniker": "Project7\\prime_factors_test.cpp",
               "ToolTip": "C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\prime_factors_test.cpp",
               "RelativeToolTip": "Project7\\prime_factors_test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T03:41:17.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T03:41:17.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "prime_factors.cpp",
               "DocumentMoniker": "C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\prime_factors.cpp",
               "RelativeDocumentMoniker": "Project7\\prime_factors.cpp",
@@ -77,8 +83,38 @@
               "RelativeToolTip": "Project7\\prime_factors.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T03:41:02.686Z",
+              "WhenOpened": "2025-05-02T03:41:02.686Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\tomat\\source\\repos\\Project7\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\tomat\\source\\repos\\Project7\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-02T04:14:32.93Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\main.cpp",
+              "RelativeDocumentMoniker": "Project7\\main.cpp",
+              "ToolTip": "C:\\Users\\tomat\\source\\repos\\Project7\\Project7\\main.cpp",
+              "RelativeToolTip": "Project7\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T03:44:21.918Z"
             }
           ]
         }
